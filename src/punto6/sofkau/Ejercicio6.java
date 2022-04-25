@@ -1,7 +1,6 @@
 package punto6.sofkau;
 
 public class Ejercicio6 {
-    int numero;
 
     public boolean esPar(int numero) {
         return numero % 2 == 0;
